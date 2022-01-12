@@ -48,8 +48,8 @@ I've personally always found it very useful to read about other's experiences be
 1. CS2040S
 2. CS2102
 3. EC2102
-4. EC3101
-5. [Notes] [Module Review] EC3303
+4. [Notes] [Module Review] EC3101
+5. EC3303
 
 
 ## What's next
