@@ -1,0 +1,23 @@
+Rows:4
+Cols:4
+Number of Obstacles:0
+Position of Obstacles (space between):-
+K (Minimum number of pieces left in goal):4
+Number of King, Queen, Bishop, Rook, Knight (space between):0 16 0 0 0
+Position of Pieces [Piece, Pos]:
+[Queen,a0]
+[Queen,a1]
+[Queen,a2]
+[Queen,a3]
+[Queen,b0]
+[Queen,b1]
+[Queen,b2]
+[Queen,b3]
+[Queen,c0]
+[Queen,c1]
+[Queen,c2]
+[Queen,c3]
+[Queen,d0]
+[Queen,d1]
+[Queen,d2]
+[Queen,d3]

@@ -1,4 +1,4 @@
-# EC101 20/21 S2
+# EC101 21/22 S1
 
 ## Lecturer: 
 Timothy Wong Chong Ji
