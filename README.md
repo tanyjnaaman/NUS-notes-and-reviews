@@ -54,10 +54,10 @@ I've personally always found it very useful to read about other's experiences be
 ### 21/22 S2
 1. CS3230 Design and Analysis of Algorithms
 2. CS2103 Software Engineering
-3. CS3243 Introduction to AI
-4. CS4243 Computer Vision
-5. EC3304 Econometrics 2
-6. EC3102 Macroeconomics 2
+3. [Notes] [Module Review] CS3243 Introduction to AI
+4. [Notes] [Module Review] CS4243 Computer Vision
+5. [Notes] [Module Review] EC3304 Econometrics 2
+6. [Notes] [Module Review] EC3102 Macroeconomics 2
 
 ## What's next
 
