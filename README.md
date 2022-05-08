@@ -47,7 +47,7 @@ I've personally always found it very useful to read about other's experiences be
 ### 21/22 S1
 1. CS2040S Data Structures and Algorithms
 2. CS2102 Database Systems
-3. EC2102 Macroeconomics 1
+3. [Notes] [Module Review] EC2102 Macroeconomics 1
 4. [Notes] [Module Review] EC3101 Microeconomics 2
 5. EC3303 Econometrics 1
 
