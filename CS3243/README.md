@@ -37,4 +37,4 @@ Dr. Ler is a (in my opinion) a pretty average teacher - he's ambiguous fairly of
 This is a compulsory module for CS4248 Natural Language Processing, but is also a generally interesting course to take for a better understanding of "AI" as a field.
 
 ## Final grade
-Fingers crossed for an A- or A.
+A+ (surprise, surprise)

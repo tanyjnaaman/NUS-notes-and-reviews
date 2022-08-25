@@ -30,4 +30,4 @@ The content is not particularly interesting (to me) and I found it a grind more 
 I am probably not going into macroeconomics after taking this module, so take what I say with a pinch of salt.
 
 ## Final grade
-With a little luck, an A. Probably an A- though.
+A-

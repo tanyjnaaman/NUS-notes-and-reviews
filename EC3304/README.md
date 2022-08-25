@@ -19,4 +19,4 @@ I'm generally pretty curious, so I went a step further (particularly for time se
 Overall, a 6/10 module. I wish it was more mathematically rigorous, and more hands on. Prof Tkachenko is nice, if a little bit confusing and mumble-y at times during lecture. I'm very into stats and econometrics in general, and I think it's an interesting rounding to the introduction to regression techniques that began in EC3303.
 
 ## Final grade 
-Midterms was 94th percentile, so I'm hoping for an A to A+. Will update.
+A+

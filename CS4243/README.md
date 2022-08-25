@@ -39,4 +39,4 @@ I'm glad Prof Xavier is now teaching at NUS. Though he can be quite hands-off, h
 I highly recommend this module under Prof Xavier. 
 
 ## Final grade
-Not seen the A+ in a while. I hope this will be one.
+A+
