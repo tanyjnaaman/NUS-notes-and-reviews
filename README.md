@@ -49,7 +49,7 @@ I've personally always found it very useful to read about other's experiences be
 4. ST2334 Probability and Statistics
 
 ### 21/22 S1
-1. CS2040S Data Structures and Algorithms
+1. CS2040S Data Structures and Algorithms [Notes] [Module Review]
 2. CS2102 Database Systems
 3. EC2102 Macroeconomics 1 [Notes] [Module Review] 
 4. EC3101 Microeconomics 2 [Notes] [Module Review] 
