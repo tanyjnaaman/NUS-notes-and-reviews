@@ -40,28 +40,28 @@ I've personally always found it very useful to read about other's experiences be
 4. MLE1010 Materials Engineering Principles and Practices
 5. EE2211 Introduction to Machine Learning
 6. ST1131 Introduction to Statistics and Statistical computing 
-7. EC2204 Accounting for Econonomists [Notes] [Module Review] 
+7. EC2204 Accounting for Econonomists 
 
 ### 20/21 S2
 1. CS1231S Discrete Structures
 2. CS2030S Programming Methodology 2
-3. CS2100 Computer Organisation [Notes] [Module Review] 
+3. CS2100 Computer Organisation 
 4. ST2334 Probability and Statistics
 
 ### 21/22 S1
-1. CS2040S Data Structures and Algorithms [Notes] [Module Review]
+1. CS2040S Data Structures and Algorithms 
 2. CS2102 Database Systems
-3. EC2102 Macroeconomics 1 [Notes] [Module Review] 
-4. EC3101 Microeconomics 2 [Notes] [Module Review] 
+3. EC2102 Macroeconomics 1 
+4. EC3101 Microeconomics 2 
 5. EC3303 Econometrics 1
 
 ### 21/22 S2
 1. CS3230 Design and Analysis of Algorithms
 2. CS2103 Software Engineering
-3. CS3243 Introduction to AI [Notes] [Module Review] 
-4. CS4243 Computer Vision [Notes] [Module Review] 
-5. EC3304 Econometrics 2 [Notes] [Module Review] 
-6. EC3102 Macroeconomics 2 [Notes] [Module Review] 
+3. CS3243 Introduction to AI 
+4. CS4243 Computer Vision 
+5. EC3304 Econometrics 2 
+6. EC3102 Macroeconomics 2 
 
 ## What's next
 

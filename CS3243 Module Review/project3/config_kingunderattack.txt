@@ -1,0 +1,26 @@
+Rows:5
+Cols:5
+Number of Enemy King, Queen, Bishop, Rook, Knight, Pawn (space between):1 1 1 1 1 5
+Position of Enemy Pieces:
+[King,e4]
+[Queen,d4]
+[Bishop,c4]
+[Knight,b4]
+[Rook,a4]
+[Pawn,a3]
+[Pawn,b3]
+[Pawn,c3]
+[Pawn,d3]
+[Pawn,e3]
+Number of Own King, Queen, Bishop, Rook, Knight, Pawn (space between):1 1 1 1 1 5
+Starting Position of Pieces [Piece, Pos]:
+[King,e0]
+[Queen,d0]
+[Bishop,c0]
+[Knight,b0]
+[Rook,a0]
+[Pawn,a1]
+[Pawn,b1]
+[Pawn,c1]
+[Pawn,d1]
+[Pawn,e1]

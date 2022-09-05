@@ -1,0 +1,4 @@
+function ClickConnect(){
+console.log("Working"); 
+document.querySelector("colab-permissions-button").click() 
+}setInterval(ClickConnect,60000)
