@@ -63,6 +63,13 @@ I've personally always found it very useful to read about other's experiences be
 5. EC3304 Econometrics 2 
 6. EC3102 Macroeconomics 2 
 
+### 22/23 S3
+1. CS2105 Introduction to Computer Networks
+2. CS2106 Introduction to Operating Systems
+3. CS3203 Software Engineering Project
+4. CS3219 Software Engineering Principles and Patterns
+
+
 ## What's next
 
 I'll update these every so often, whenever I find a spare pocket of time.
