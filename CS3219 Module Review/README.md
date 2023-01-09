@@ -34,11 +34,11 @@ The assignments are honestly quite interesting, and exposed me to new tech stack
 Just not very easy if you're new. If you've worked before, you should find it manageable. 
 
 You can find my assignments: 
-https://github.com/tanyjnaaman/cs3219-task-a-docker-k8
-https://github.com/tanyjnaaman/cs3219-task-b-link-renderer
-https://github.com/tanyjnaaman/cs3219-task-c-auth
-https://github.com/tanyjnaaman/cs3219-task-d-pub-sub
-https://github.com/tanyjnaaman/cs3219-task-e-caching
+* https://github.com/tanyjnaaman/cs3219-task-a-docker-k8
+* https://github.com/tanyjnaaman/cs3219-task-b-link-renderer
+* https://github.com/tanyjnaaman/cs3219-task-c-auth
+* https://github.com/tanyjnaaman/cs3219-task-d-pub-sub
+* https://github.com/tanyjnaaman/cs3219-task-e-caching
 
 
 3. Finals
