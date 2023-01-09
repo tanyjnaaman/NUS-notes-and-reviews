@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">NUS Module Notes and Reviews</h1>
+  <h1 align="center">NUS Module Reviews</h1>
 
   <p align="center">
     This is a repository where I keep my notes, grades and reviews for modules I've taken. 
@@ -63,7 +63,7 @@ I've personally always found it very useful to read about other's experiences be
 5. EC3304 Econometrics 2 
 6. EC3102 Macroeconomics 2 
 
-### 22/23 S3
+### 22/23 S1
 1. CS2105 Introduction to Computer Networks
 2. CS2106 Introduction to Operating Systems
 3. CS3203 Software Engineering Project
