@@ -40,7 +40,8 @@ You can find my assignments:
 4. https://github.com/tanyjnaaman/cs3219-task-d-pub-sub
 5. https://github.com/tanyjnaaman/cs3219-task-e-caching
 
-6. Finals
+
+3. Finals
 
 Total bullshit final. Most of the questions are abstract and debatable. I question so much of it. I got an A for the project, full for the assignments, but got an A-. Frustrating. 
 
