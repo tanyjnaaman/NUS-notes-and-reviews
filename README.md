@@ -32,9 +32,9 @@ I've personally always found it very useful to read about other's experiences be
 * [ST2334 Module Review](https://github.com/tanyjnaaman/NUS-notes-and-reviews/tree/main/ST2334%20Module%20Review)
 
 ### ETH Zurich
-* [263-5354-00L Large Language Models]()
-* [252-0341-01L Information retrieval]()
-* [227-0558-00L  Principles of Distributed Computing]()
+* [263-5354-00L Large Language Models](https://github.com/tanyjnaaman/NUS-notes-and-reviews/tree/main/263-5354-00L%20Large%20Language%20Models)
+* [252-0341-01L Information retrieval](https://github.com/tanyjnaaman/NUS-notes-and-reviews/tree/main/252-0341-01L%20Information%20retrieval)
+* [227-0558-00L  Principles of Distributed Computing](https://github.com/tanyjnaaman/NUS-notes-and-reviews/tree/main/227-0558-00L%20Principles%20of%20Distributed%20Computing)
 
 
 ## Classes I took
