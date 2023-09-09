@@ -12,7 +12,7 @@ I've personally always found it very useful to read about other's experiences be
 
 ## Module reviews
 ### NUS
-* [CS1231S Module Review]
+* [CS1231S Module Review]()
 * [CS2040S Module Review](https://github.com/tanyjnaaman/NUS-notes-and-reviews/tree/main/CS2040S%20Module%20Review)
 * [CS2100 Module Review](https://github.com/tanyjnaaman/NUS-notes-and-reviews/tree/main/CS2100%20Module%20Review)
 * [CS2105 Module Review](https://github.com/tanyjnaaman/NUS-notes-and-reviews/tree/main/CS2105%20Module%20Review)
