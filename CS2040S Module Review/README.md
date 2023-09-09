@@ -1,4 +1,4 @@
-# CS2040S Data Structures and Algorithms 20/21 S1
+# CS2040S Data Structures and Algorithms 21/22 S1
 
 ## Lecturer
 

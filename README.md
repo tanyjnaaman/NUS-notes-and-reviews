@@ -11,6 +11,8 @@
 I've personally always found it very useful to read about other's experiences before taking a module, especially so when they shared their notes for reference. So, for all the people who've helped me, I'm just paying it forward. I figured it'd be nice to share my own experiences in school, too. Hope this helps someone out there.
 
 ## Module reviews
+### NUS
+* [CS1231S Module Review]
 * [CS2040S Module Review](https://github.com/tanyjnaaman/NUS-notes-and-reviews/tree/main/CS2040S%20Module%20Review)
 * [CS2100 Module Review](https://github.com/tanyjnaaman/NUS-notes-and-reviews/tree/main/CS2100%20Module%20Review)
 * [CS2105 Module Review](https://github.com/tanyjnaaman/NUS-notes-and-reviews/tree/main/CS2105%20Module%20Review)
@@ -28,6 +30,11 @@ I've personally always found it very useful to read about other's experiences be
 * [EE2211 Module Review](https://github.com/tanyjnaaman/NUS-notes-and-reviews/tree/main/EE2211%20Module%20Review)
 * [ME2134 Module Review](https://github.com/tanyjnaaman/NUS-notes-and-reviews/tree/main/ME2134%20Module%20Review)
 * [ST2334 Module Review](https://github.com/tanyjnaaman/NUS-notes-and-reviews/tree/main/ST2334%20Module%20Review)
+
+### ETH Zurich
+* [263-5354-00L Large Language Models]()
+* [252-0341-01L Information retrieval]()
+* [227-0558-00L  Principles of Distributed Computing]()
 
 
 ## Classes I took
@@ -94,6 +101,12 @@ I've personally always found it very useful to read about other's experiences be
 2. CS2106 Introduction to Operating Systems
 3. CS3203 Software Engineering Project
 4. CS3219 Software Engineering Principles and Patterns
+
+### 22/23 S2 (exchange at ETH Zurich)
+
+1. 263-5354-00L Large Language Models
+2. 252-0341-01L Information retrieval
+3. 227-0558-00L  Principles of Distributed Computing
 
 ## What's next
 
